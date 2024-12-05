@@ -3,7 +3,9 @@ To save time, its based on sprite and dat of YinYin's lf1/2 project with further
 It also uses a character in a mod called lf3.
 
 Don't expect the mod to be same as lf1 as its not my focus. So there should be balancing issue or something different from lf1.
-The only thing that I want but am unable to fix is Deep's sword attack
+The only thing that I want but am unable to fix is Deep's sword attack.
+
+Feel free to use the resouces. Just make sure the give credit to the orignal projects and this project.
 
 Not do:
 -Jump to throw
@@ -14,6 +16,9 @@ Not do:
 
 Unable to do:
 -Deep Sword attack
+
+Gameplay video:
+https://www.youtube.com/watch?v=9jMJWVq3zss&feature=youtu.be
 
 Thanks to the author of these mods
 lf1/2
